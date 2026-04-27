@@ -1,0 +1,13 @@
+{
+  "id": "scan:qbb6zjr5lh",
+  "kind": "scan",
+  "title": "hunt #1 — 2026-04-27 01:39",
+  "body": "Running hunt #2 — hitting all targets. Let me fire off the searches in parallel batches.",
+  "ai": "claude-opus-4-6",
+  "last_working": "2026-04-27T01:39:57.569340700-05:00",
+  "notes": "auto-submitted from Mythos leak hunter",
+  "severity": "info",
+  "contributor_uid": "LO",
+  "display_name": "LO",
+  "submitted_at": "2026-04-27T06:39:58.401Z"
+}
